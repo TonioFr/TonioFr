@@ -1,3 +1,5 @@
+<a href="https://www.cleantake.app"><img src="assets/cleantake-banner.png" alt="Clean Take — Never lose a great take again" width="100%" /></a>
+
 <h2>Hi there, I'm Antoine 👋</h2>
 
 **Freelance CTO & AI architect · Founder of Clean Take · Musician on stage 🎶**
@@ -10,13 +12,17 @@ These days I split my time between **building my own product** and **helping sta
 
 ### 🎙️ What I'm building
 
-**Clean Take** — an app for bands. Record your rehearsal, and it takes care of the rest:
+**[Clean Take](https://www.cleantake.app)** — an app for bands. Record your rehearsal, and it takes care of the rest:
 
 - 🎧 automatic take detection and grouping by song, fully on-device and offline
 - 🎼 chord & song-section detection, stem separation, editable song structures
 - 📋 setlists, rehearsal & gig scheduling, discussions and shared expenses
 
+<a href="https://www.cleantake.app"><img src="assets/cleantake-features.png" alt="Chords & sections, isolated stems, setlists and gigs" width="100%" /></a>
+
 iOS app + web app + Python audio backend, all built solo (with Claude as a very patient pair programmer 🤖). TestFlight coming late 2026.
+
+[![Join the beta](https://img.shields.io/badge/Join_the_beta-B13AF2?style=for-the-badge&logoColor=white)](https://www.cleantake.app) [![cleantake.app](https://img.shields.io/badge/cleantake.app-55F0C8?style=for-the-badge&logoColor=080A12)](https://www.cleantake.app)
 
 ### 🧭 What I do for others
 
